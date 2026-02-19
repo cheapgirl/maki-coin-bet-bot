@@ -217,5 +217,7 @@ Your results will always depend on:
 💰 **Your bet amount**
 
 ⏳ **How long you run it**
+
 ---
+
 Enjoy and use responsibly ✨
