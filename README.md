@@ -1,3 +1,4 @@
+![Maki Coin Bet Banner](bet.png)
 # 🎲 Maki Coin Bet Automation Script
 
 A simple, beginner-friendly Python script that **automates coin betting** on the **Maki Discord bot**.
